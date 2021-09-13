@@ -1,0 +1,3 @@
+The novelty of the proposed method is listed as follows.
+(i)	The first novelty of the proposed method is that the hand gesture recognition is based on the result of finger recognition. Therefore, the recognition is accomplished by a simple and efficient rule instead of the sophisticated but complicated classifiers such as SVM and CRF.
+(ii) The second advantage of the proposed method is that it is highly efficient and fit for real-time applications.
